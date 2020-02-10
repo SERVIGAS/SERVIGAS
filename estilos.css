@@ -455,6 +455,11 @@ header {
   margin-top: 35px;
   color: #009933;
 }
+  #contenedor-menu {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    font-size: 25px;
 header nav {
   position: absolute;
   top: 84px;
